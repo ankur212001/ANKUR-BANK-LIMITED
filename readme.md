@@ -8,9 +8,12 @@
 
 `ANKUR BANK LIMITED` main feature is `abstraction` and `data-encapsulation`.Main contain only `default` accounts data, memory allocation and deallocation and one executed external function.
 
-<p align="center">
-  <img width="1000" src="Demo/demo.mp4" alt="demo"/>
-</p>
+
+
+
+https://github.com/ankur212001/ANKUR-BANK-LIMITED/assets/87575898/548f339d-216c-4211-ab10-ebf2774b2736
+
+
 
 ### Example of Abstraction and encapsulation see [main.cpp](/main.cpp):
 
