@@ -2,7 +2,7 @@
 
 
 
-> Bankist application in `C++` by using `DYNAMIC MEMPRY ALLOCATION` and `OBJECT_ORIENTED_PROGRAMMING` concepts. Its main features are login system, user authentication ,create a new account , requesting loan , transfer money, sort your movements , currency converter , delete your account and log out system .
+> Banking application in `C++` by using `DYNAMIC MEMPRY ALLOCATION` and `OBJECT_ORIENTED_PROGRAMMING` concepts. Its main features are login system, user authentication ,create a new account , requesting loan , transfer money, sort your movements , currency converter , delete your account and log out system .
 
 # ✨ Demo
 
